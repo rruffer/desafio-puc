@@ -4,6 +4,6 @@ A classe principal se chama MainAPP.
 
 Como utilizar:
 
-Dê um run na classe Main APP.java.
+Dê um run na classe MainAPP.java.
 Na tela principal, escolha o arquivo a ser processado.
 Após a escolha do arquivo, aparecerá o resultado na tela e gravará o arquivo na pasta raíz.
