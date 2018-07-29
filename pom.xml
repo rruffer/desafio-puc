@@ -29,7 +29,7 @@
 				<version>8.8.3</version>
 				<configuration>
 
-					<mainClass>br.com.valid.control.MainApp</mainClass>
+					<mainClass>br.com.rruffer.control.MainApp</mainClass>
 					<jfxAppOutputDir>${jfx.output.dir}</jfxAppOutputDir>
 
 					<!-- only required if signing the jar file -->
