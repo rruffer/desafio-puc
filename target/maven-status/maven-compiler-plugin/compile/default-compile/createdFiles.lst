@@ -1,0 +1,14 @@
+br\com\valid\control\io\GeraJasper.class
+br\com\valid\pdf\pdfrenderer\PDFPrintPage.class
+br\com\valid\pdf\pdfrenderer\PrintPdf.class
+br\com\valid\util\EfeitosDeTela.class
+br\com\valid\pdf\pdfbox\Impressao.class
+br\com\valid\control\LoginController.class
+br\com\valid\control\MainApp.class
+br\com\valid\util\Tela.class
+br\com\valid\util\Router.class
+br\com\valid\util\Mensagem.class
+br\com\valid\model\DiplomaUninter.class
+br\com\valid\util\UtilFormat.class
+br\com\valid\control\ImpressaoController.class
+br\com\valid\util\Campos.class

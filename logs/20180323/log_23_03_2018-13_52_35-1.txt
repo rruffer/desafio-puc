@@ -1,0 +1,1 @@
+23/03/2018 13:52:29:297 [JavaFX Application Thread] INFO  - br.com.valid.control.LoginController - Usuário logado!
