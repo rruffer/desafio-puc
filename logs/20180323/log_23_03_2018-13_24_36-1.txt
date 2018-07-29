@@ -1,1 +1,0 @@
-23/03/2018 13:24:30:334 [JavaFX Application Thread] INFO  - br.com.valid.control.MainApp - Iniciando aplicação.
